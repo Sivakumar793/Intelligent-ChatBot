@@ -1,4 +1,4 @@
-# Intelligent-ChatBot
+# Intelligent-ChatBot-Query
 
 Step 1: Open browser and navigate to Google Colab.
 Create a new notebook by selecting New Notebook from the Colab home page.
